@@ -40,7 +40,8 @@ and open the template in the editor.
                 width: 100%;
                 
             }
-            h2 {display: inline;}
+            h2 {display: inline;
+            font-size: 20px;}
             img {
                 width: 100%;
                 height: 100%;
