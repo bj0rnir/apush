@@ -98,7 +98,7 @@ and open the template in the editor.
                       </ul>
                       
                       <fieldset id="sources">
-                            <h3>Sources</h3>
+                            <legend>Sources</legend>
                       <div id="accordion">
                           <h3>Source 1</h3>
                           <h3>Source 2</h3>
