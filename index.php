@@ -95,7 +95,7 @@ and open the template in the editor.
                       <ul>
                       <li><strong>- The State of Tenn.</strong></li><br>
                       <li><strong>- Fundamentalists</strong></li><br>
-                      <li><strong>- William Jennings Bryan </strong>(defended the state of Tennessee during the trial)</li><br>
+                      <li><strong>- William Jennings Bryan </strong>(defended the state of Tenn.)</li><br>
                       </ul>
                       
                       <fieldset id="sources">
@@ -138,12 +138,11 @@ grateful, too, that we have a Christian man for governor..."</i></strong> - Mrs.
                               <p>The excerpt from this article contrasts urban lifestyle in America with the rural lifestyle more common in southern states like Tennessee. He singles out (with a slight tone of ridicule) the Christian practices that many worshippers see as normal when non-religious people see them as alien. The article even goes so far as to compare the promises of heaven, hope, joy, and Jesus conjured by the Bible to the facade of false-advertisement that line every surface at eye-level.</p>
                                 <p><strong><i>"They walked up and down hot, dusty Market Street, with its buildings hung with banners, and lined with soda-water, sandwich, and book stalls, as for a carnival. Religion and business had become strangely mixed."</i></strong><i>    -The New York Times, "Cranks and Freaks Flock to Dayton"</i></p>
                           </div>
-                          <h3>Mrs. Jesse Sparks</h3>
+                          <h3>Dudley Field Malone</h3>
                           <div>
-                              <p><strong>Source: </strong>A letter to a newspaper editor in Tennessee written by <strong>Mrs. Jesse Sparks</strong> on <i>July 3rd, 1925.</i></p>
-                                <p>Mrs. Sparks expresses her gratitude that the decision to forbid the teaching of evolution in schools was made based on faith. Her argument imposes that laws should be shaped to accomodate the demands of Christians above all else and that those with opposing views must adapt.</p>
-                                <p><strong><i>"I for one was grateful that they stood up for what was right. And
-grateful, too, that we have a Christian man for governor..."</i></strong> - Mrs. Jesse Sparks</p>
+                              <p><strong>Source: </strong>A speech given on the fourth day of the Scopes trial by <strong>Dudley Field Malone</strong> on <i>July 15th, 1925.</i></p>
+                                <p>In his speech, Malone condemns ignorance. He states that facts should be questioned and that Americans should not follow instructions so easily given by a book. Progress, he says, is the only thing we can strive for that will always yield a result. Malone further explains that assumptions close doors with every person's acceptance of them, and that the best thing we can do for our children is to let them have an open mind that progresses with experience.</p>
+                                <p><strong><i>"For God’s sake let the children have their minds kept open—close no doors to their knowledge..."</i></strong> - Dudley Field Malone</p>
                           </div>
 
                       </div>
