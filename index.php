@@ -100,8 +100,11 @@ and open the template in the editor.
                       <fieldset id="sources">
                             <legend>Sources</legend>
                       <div id="accordion">
-                          <h3>Source 1</h3>
-                          <div><p>(Source Info)</p></div>
+                          <h3>Reverend John Roach Straton</h3>
+                          <div>
+                              <h2><i>"The most sinister movement in the United States..."</i></h2>
+                              <p>(Source Info)</p>
+                          </div>
                           <h3>Source 2</h3>
                           <div><p>(Source Info)</p></div>
                           <h3>Source 3</h3>
