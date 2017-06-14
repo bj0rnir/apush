@@ -128,7 +128,7 @@ grateful, too, that we have a Christian man for governor..."</i></strong> - Mrs.
                       <li><strong>- Clarence Darrow <i>(defended Scopes during the trial)</i></li><br>
                       </ul>
                       
-                  </fieldset>
+                  
                   <fieldset id="sources">
                   <legend>Sources</legend>
                       <div class="accordion">
