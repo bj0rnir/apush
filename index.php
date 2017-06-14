@@ -90,8 +90,10 @@ and open the template in the editor.
                   
                   <fieldset id="supporters">
                   <legend>Butler Act Supporters: </legend>
-                      <h2>The State of Tennessee</h2>
-                      <p>Fundamentalists</p>
+                      <ul>
+                      <li>The State of Tennessee</li>
+                      <li>Fundamentalists</li>
+                      </ul>
                   </fieldset>
                   
                   
