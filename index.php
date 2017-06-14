@@ -83,6 +83,8 @@ and open the template in the editor.
               </ul>
               <div id="scopes">
                   <h3>The Scopes Trial</h3>
+                  <p>Test</p>
+                  <p>Test</p>
                     <div>
                   <fieldset id="supporters">
                         <legend>Supporters: </legend>
