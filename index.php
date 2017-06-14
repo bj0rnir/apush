@@ -83,12 +83,14 @@ and open the template in the editor.
               </ul>
               <div id="scopes">
                   <h3>The Scopes Trial</h3>
-                    <fieldset id="supporters">
+                    <div>
+                  <fieldset id="supporters">
                         <legend>Supporters: </legend>
                     </fieldset>
                     <fieldset id="opposers">
                         <legend>Opposers: </legend>
                   </fieldset>
+                        </div>
             </div>
             <div id="fundvsmod"><h3>Fundamentalism vs. Modernism</h3></div>
             <div id="1920society"><h3>Society and Innovation of the 1920s</h3></div>
