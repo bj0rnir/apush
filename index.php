@@ -103,7 +103,7 @@ and open the template in the editor.
                       <div id="accordion">
                           <h3>Reverend John Roach Straton</h3>
                           <div>
-                              <h2><i>"The most sinister movement in the United states"</i> by Reverend John Roach Straton published by <i>American Fundamentalist</i> on December 26th, 1925</h2>
+                              <p><strong><i>"The most sinister movement in the United states"</i></strong> by Reverend John Roach Straton published by <strong><i>American Fundamentalist</i></strong> on <i>December 26th, 1925</i></h2>
                               <p>The reverend jumps straight into expressing his dissaproval of teaching evolution in public schools. He argues that areas more absent from religion have greater crime rates and worse living conditions.</p>
                           </div>
                           <h3>Source 2</h3>
