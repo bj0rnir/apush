@@ -60,7 +60,7 @@ and open the template in the editor.
                 text-align: center
             }
             #supporters {
-            width: 30%;
+                width: 30%;
                 float: left;
                 display: inline-block;
             }
@@ -83,18 +83,9 @@ and open the template in the editor.
               </ul>
               <div id="scopes">
                   <h3>The Scopes Trial</h3>
-                  <p>Test</p>
-                  <p>Test</p>
-                    <div>
-                  <fieldset id="supporters">
-                        <legend>Supporters: </legend>
-                        <p>State of Tennessee</p>
-                        <p>Fundamentalists</p>
-                    </fieldset>
-                    <fieldset id="opposers">
-                        <legend>Opposers: </legend>
-                  </fieldset>
-                        </div>
+                  <div id="supporters">
+                      <h2>The State of Tennessee</h2>
+                  </div>
             </div>
             <div id="fundvsmod"><h3>Fundamentalism vs. Modernism</h3></div>
             <div id="1920society"><h3>Society and Innovation of the 1920s</h3></div>
