@@ -62,11 +62,11 @@ and open the template in the editor.
             #supporters {
                 width: 30%;
                 float: left;
-                display: inline-block;
+                display: inline;
             }
             #opposers {
                 float: right;
-                display: inline-block;
+                display: inline;
                 width: 30%;
             }
             
