@@ -14,19 +14,7 @@ and open the template in the editor.
         <script type="text/javascript" src="ajax.js"></script>
         <script>
             $(document).ready(function(){
-                $(".button").button();
-                
-                getFileList();
-                $('#runbtn').click(function(){
-                    
-                    tracerouteAJAX();
-                    getFileList();
-                });
-                $('#speed').change(function(){
-                    var $file = $("option").filter(":selected").text();
-                    console.log($file);
-                    getSVG($file);
-                });
+                $(".tabs").tabs();
             });
         </script>
         <style>
@@ -71,39 +59,17 @@ and open the template in the editor.
     
     </head>
     <body>
-       
-            <fieldset id="traceroute">
-                <legend>TCP Traceroute</legend>
-                <h2>Host: </h2><input id="host" type="text"></input><br><br>
-                    <fieldset>
-                        <legend>Ports</legend>
-                    <label for="port80">80</label>
-                    <input checked="true" class="checkbox" type="checkbox" name="port80" id="port80">
-                    <label for="port443">443</label>
-                    <input class="checkbox" type="checkbox" name="port443" id="port443">
-                    <label for="port22">22</label>
-                    <input class="checkbox" type="checkbox" name="port22" id="port22">
-                    <label for="port21">21</label>
-                    <input class="checkbox" type="checkbox" name="port21" id="port21">
-                    <label for="port8080">8080</label>
-                    <input class="checkbox" type="checkbox" name="port8080" id="port8080">
-                    <input class="customportfield" type="number" for="port21">
-                    <input class="checkbox customportcheck" type="checkbox" name="port21" id="customport1">
-                    <button onclick="newCustomPort()" id="portadd">+</button>
-                    </fieldset><br>
-                <h2>TTL: <h2><input  id="ttl" value="30" type="number"></input><br><br>
-                        <button id="runbtn" class="button" type="button">Run</button>
-                </fieldset>
-        </div>
-        <div id="results">
-        <fieldset id="field">
-            <legend>View Results</legend>
-            <label for="speed">Select a file</label>
-            <select name="speed" id="speed">
-                
-            </select>
-            <img id="svgimg" src="saved/new.svg">
-        </fieldset>
-        </div>
+        <div class="tabs">
+              <ul>
+                <li><a href="#scopes">Scopes Trial</a></li>
+                <li><a href="#fundvsmod">Fundamentalism vs. Modernism</a></li>
+                <li><a href="#1920society">1920's Society</a></li>
+              </ul>
+              <div id="scopes">
+                  <h3>The Scopes Trial</h3>
+             </div>
+            
+            <div id="fundvsmod"><h3>Fundamentalism vs. Modernism</h3></div>
+            <div id="1920society"><h3>Society and Innovation of the 1920s</h3></div>
     </body>
 </html>
