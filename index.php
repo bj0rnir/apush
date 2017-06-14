@@ -15,7 +15,7 @@ and open the template in the editor.
         <script>
             $(document).ready(function(){
                 $(".tabs").tabs();
-                $( "#accordion" ).accordion();
+                $( ".accordion" ).accordion();
             });
         </script>
         <style>
@@ -100,7 +100,7 @@ and open the template in the editor.
                       
                       <fieldset id="sources">
                             <legend>Sources</legend>
-                      <div id="accordion">
+                      <div class="accordion">
                           <h3>Reverend John Roach Straton</h3>
                           <div>
                               <p><strong><i>"The most sinister movement in the United states"</i></strong> by Reverend John Roach Straton published by <strong><i>American Fundamentalist</i></strong> on <i>December 26th, 1925</i></h2>
@@ -131,7 +131,7 @@ grateful, too, that we have a Christian man for governor..."</i></strong> - Mrs.
                   </fieldset>
                   <fieldset id="sources">
                   <legend>Sources</legend>
-                      <div id="accordion">
+                      <div class="accordion">
                           <h3>Reverend John Roach Straton</h3>
                           <div>
                               <p><strong><i>"The most sinister movement in the United states"</i></strong> by Reverend John Roach Straton published by <strong><i>American Fundamentalist</i></strong> on <i>December 26th, 1925</i></h2>
@@ -147,7 +147,8 @@ grateful, too, that we have a Christian man for governor..."</i></strong> - Mrs.
                           </div>
 
                       </div>
-                      </fieldset>
+                     </fieldset>
+        </fieldset>
                   
                   
             </div>
