@@ -68,6 +68,10 @@ and open the template in the editor.
                 display: inline-block;
                 width: 30%;
             }
+            #scopes {
+                width: 100%;
+            height: 100%;
+            }
         </style>
         <title></title>
     
