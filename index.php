@@ -107,8 +107,13 @@ and open the template in the editor.
                               <p>The reverend jumps straight into expressing his dissaproval of teaching evolution in public schools. He argues that areas more absent from religion have greater crime rates and worse living conditions.</p>
                                 <p><strong><i>"John Scopes’s lawyers left New York and Chicago, where real religion is ignored"</i></strong> -Reverend John Roach Straton</p>
                           </div>
-                          <h3>Source 2</h3>
-                          <div><p>(Source Info)</p></div>
+                          <h3>Mrs. Jesse Sparks</h3>
+                          <div>
+                              <p>A letter to a newspaper editor in Tennessee written by <strong>Mrs. Jesse Sparks</strong> on <i>July 3rd, 1925.</i></p>
+                                <p>Mrs. Sparks expresses her gratitude that the decision to forbid the teaching of evolution in schools was made based on faith. Her argument imposes that laws should be shaped to accomodate the demands of Christians above all else and that those with opposing views must adapt.</p>
+                                <p><strong><i>"I for one was grateful that they stood up for what was right. And
+grateful, too, that we have a Christian man for governor..."</i></strong> - Mrs. Jesse Sparks</p>
+                          </div>
                           <h3>Source 3</h3>
                           <div><p>(Source Info)</p></div>
                       </div>
