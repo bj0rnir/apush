@@ -86,6 +86,8 @@ and open the template in the editor.
                     <div>
                   <fieldset id="supporters">
                         <legend>Supporters: </legend>
+                        <p>State of Tennessee</p>
+                        <p>Fundamentalists</p>
                     </fieldset>
                     <fieldset id="opposers">
                         <legend>Opposers: </legend>
