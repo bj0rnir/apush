@@ -34,9 +34,9 @@ and open the template in the editor.
                 padding-bottom: 10px;
             }
             .tabs {
-                display: inline-block;
-                width: 50%;
-                float: right;
+                display: block;
+                width: 100%;
+                
             }
             h2 {display: inline;}
             img {
@@ -71,5 +71,6 @@ and open the template in the editor.
             
             <div id="fundvsmod"><h3>Fundamentalism vs. Modernism</h3></div>
             <div id="1920society"><h3>Society and Innovation of the 1920s</h3></div>
+            </div>
     </body>
 </html>
