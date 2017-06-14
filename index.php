@@ -54,6 +54,18 @@ and open the template in the editor.
             label {
                 padding-left: 10px;}
             .customportfield{width: 60px;}
+            h3 {
+                font-size: 30px;
+                text-align: center
+            }
+            #supporters {
+            width: 50%;
+                display: inline-block;
+            }
+            #opposers {
+                display: inline-block;
+                width: 50%;
+            }
         </style>
         <title></title>
     
@@ -67,8 +79,9 @@ and open the template in the editor.
               </ul>
               <div id="scopes">
                   <h3>The Scopes Trial</h3>
-             </div>
-            
+                    <div id="supporters"></div>
+                    <div id="opposers"></div>
+            </div>
             <div id="fundvsmod"><h3>Fundamentalism vs. Modernism</h3></div>
             <div id="1920society"><h3>Society and Innovation of the 1920s</h3></div>
             </div>
