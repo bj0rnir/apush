@@ -109,13 +109,12 @@ and open the template in the editor.
                           </div>
                           <h3>Mrs. Jesse Sparks</h3>
                           <div>
-                              <p>A letter to a newspaper editor in Tennessee written by <strong>Mrs. Jesse Sparks</strong> on <i>July 3rd, 1925.</i></p>
+                              <p><strong>Source: </strong>A letter to a newspaper editor in Tennessee written by <strong>Mrs. Jesse Sparks</strong> on <i>July 3rd, 1925.</i></p>
                                 <p>Mrs. Sparks expresses her gratitude that the decision to forbid the teaching of evolution in schools was made based on faith. Her argument imposes that laws should be shaped to accomodate the demands of Christians above all else and that those with opposing views must adapt.</p>
                                 <p><strong><i>"I for one was grateful that they stood up for what was right. And
 grateful, too, that we have a Christian man for governor..."</i></strong> - Mrs. Jesse Sparks</p>
                           </div>
-                          <h3>Source 3</h3>
-                          <div><p>(Source Info)</p></div>
+
                       </div>
                       </fieldset>
                   </fieldset>
