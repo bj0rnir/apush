@@ -96,11 +96,15 @@ and open the template in the editor.
                       <li><strong>- Fundamentalists</strong></li><br>
                       <li><strong>- William Jennings Bryan </strong>(defended the state of Tennessee during the trial)</li><br>
                       </ul>
+                      
+                      <fieldset id="sources">
+                            <h3>Sources</h3>
                       <div id="accordion">
                           <h3>Source 1</h3>
                           <h3>Source 2</h3>
                           <h3>Source 3</h3>
                       </div>
+                      </fieldset>
                   </fieldset>
                   
                   
