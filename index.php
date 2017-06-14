@@ -60,14 +60,14 @@ and open the template in the editor.
                 text-align: center
             }
             #supporters {
-                width: 30%;
+                width: 50%;
                 float: left;
                 display: inline;
             }
             #opposers {
                 float: right;
                 display: inline;
-                width: 30%;
+                width: 50%;
             }
             #scopes {
                 width: 100%;
