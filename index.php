@@ -101,8 +101,11 @@ and open the template in the editor.
                             <legend>Sources</legend>
                       <div id="accordion">
                           <h3>Source 1</h3>
+                          <div><p>(Source Info)</p></div>
                           <h3>Source 2</h3>
+                          <div><p>(Source Info)</p></div>
                           <h3>Source 3</h3>
+                          <div><p>(Source Info)</p></div>
                       </div>
                       </fieldset>
                   </fieldset>
