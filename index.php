@@ -93,6 +93,7 @@ and open the template in the editor.
                       <ul>
                       <li><strong>- The State of Tennessee</strong></li><br>
                       <li><strong>- Fundamentalists</strong></li><br>
+                      <li><strong>- William Jennings Bryan </strong>(defended the state of Tennessee during the trial)</li><br>
                       </ul>
                   </fieldset>
                   
