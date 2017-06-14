@@ -59,14 +59,14 @@ and open the template in the editor.
                 text-align: center
             }
             #supporters {
-            width: 45%;
+            width: 30%;
                 float: left;
                 display: inline-block;
             }
             #opposers {
                 float: right;
                 display: inline-block;
-                width: 45%;
+                width: 30%;
             }
         </style>
         <title></title>
