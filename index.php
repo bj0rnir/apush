@@ -105,7 +105,7 @@ and open the template in the editor.
                           <div>
                               <p><strong><i>"The most sinister movement in the United states"</i></strong> by Reverend John Roach Straton published by <strong><i>American Fundamentalist</i></strong> on <i>December 26th, 1925</i></h2>
                               <p>The reverend jumps straight into expressing his dissaproval of teaching evolution in public schools. He argues that areas more absent from religion have greater crime rates and worse living conditions.</p>
-                                <p><strong><i>"John Scopes’s lawyers left New York and Chicago, where real religion is ignored"</i></strong></p>
+                                <p><strong><i>"John Scopes’s lawyers left New York and Chicago, where real religion is ignored"</i></strong> -Reverend John Roach Straton</p>
                           </div>
                           <h3>Source 2</h3>
                           <div><p>(Source Info)</p></div>
