@@ -122,7 +122,32 @@ grateful, too, that we have a Christian man for governor..."</i></strong> - Mrs.
                   
                   <fieldset id="opposers">
                   <legend>Butler Act Opposers: </legend>
+                      <ul>
+                      <li><strong>- John Scopes</strong></li><br>
+                      <li><strong>- American Civil Liberties Union (ACLU)</strong></li><br>
+                      <li><strong>- Clarence Darrow <i>(defended Scopes during the trial)</i></li><br>
+                      </ul>
+                      
                   </fieldset>
+                  <fieldset id="sources">
+                  <legend>Sources</legend>
+                      <div id="accordion">
+                          <h3>Reverend John Roach Straton</h3>
+                          <div>
+                              <p><strong><i>"The most sinister movement in the United states"</i></strong> by Reverend John Roach Straton published by <strong><i>American Fundamentalist</i></strong> on <i>December 26th, 1925</i></h2>
+                              <p>The reverend jumps straight into expressing his dissaproval of teaching evolution in public schools. He argues that areas more absent from religion have greater crime rates and worse living conditions.</p>
+                                <p><strong><i>"John Scopes’s lawyers left New York and Chicago, where real religion is ignored"</i></strong> -Reverend John Roach Straton</p>
+                          </div>
+                          <h3>Mrs. Jesse Sparks</h3>
+                          <div>
+                              <p><strong>Source: </strong>A letter to a newspaper editor in Tennessee written by <strong>Mrs. Jesse Sparks</strong> on <i>July 3rd, 1925.</i></p>
+                                <p>Mrs. Sparks expresses her gratitude that the decision to forbid the teaching of evolution in schools was made based on faith. Her argument imposes that laws should be shaped to accomodate the demands of Christians above all else and that those with opposing views must adapt.</p>
+                                <p><strong><i>"I for one was grateful that they stood up for what was right. And
+grateful, too, that we have a Christian man for governor..."</i></strong> - Mrs. Jesse Sparks</p>
+                          </div>
+
+                      </div>
+                      </fieldset>
                   
                   
             </div>
