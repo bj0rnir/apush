@@ -86,9 +86,9 @@ and open the template in the editor.
               </ul>
               <div id="scopes">
                   <h3>The Scopes Trial</h3>
-                  <div id="supporters">
-                      <h2>The State of Tennessee</h2>
-                  </div>
+                  <fieldset id="supporters">
+                  <legend>Butler Act Supporters: </legend>
+                  </fieldset>
             </div>
             <div id="fundvsmod"><h3>Fundamentalism vs. Modernism</h3></div>
             <div id="1920society"><h3>Society and Innovation of the 1920s</h3></div>
