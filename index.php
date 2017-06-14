@@ -60,14 +60,14 @@ and open the template in the editor.
                 text-align: center
             }
             #supporters {
-                width: 50%;
+                width: 45%;
                 float: left;
                 display: inline;
             }
             #opposers {
                 float: right;
                 display: inline;
-                width: 50%;
+                width: 45%;
             }
             #scopes {
                 width: 100%;
@@ -88,6 +88,9 @@ and open the template in the editor.
                   <h3>The Scopes Trial</h3>
                   <fieldset id="supporters">
                   <legend>Butler Act Supporters: </legend>
+                  </fieldset>
+                  <fieldset id="opposers">
+                  <legend>Butler Act Opposers: </legend>
                   </fieldset>
             </div>
             <div id="fundvsmod"><h3>Fundamentalism vs. Modernism</h3></div>
