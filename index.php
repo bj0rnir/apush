@@ -93,7 +93,7 @@ and open the template in the editor.
                   <fieldset id="supporters">
                   <legend>Butler Act Supporters: </legend>
                       <ul>
-                      <li><strong>- The State of Tennessee</strong></li><br>
+                      <li><strong>- The State of Tenn.</strong></li><br>
                       <li><strong>- Fundamentalists</strong></li><br>
                       <li><strong>- William Jennings Bryan </strong>(defended the state of Tennessee during the trial)</li><br>
                       </ul>
@@ -105,7 +105,7 @@ and open the template in the editor.
                           <div>
                               <p><strong><i>"The most sinister movement in the United states"</i></strong> by Reverend John Roach Straton published by <strong><i>American Fundamentalist</i></strong> on <i>December 26th, 1925</i></h2>
                               <p>The reverend jumps straight into expressing his dissaproval of teaching evolution in public schools. He argues that areas more absent from religion have greater crime rates and worse living conditions.</p>
-                                <p><strong><i>"John Scopes’s lawyers left New York and Chicago, where real religion is ignored"</i></strong> -Reverend John Roach Straton</p>
+                                <p><strong><i>"John Scopes’s lawyers left New York and Chicago, where real religion is ignored"</i></strong> - Reverend John Roach Straton</p>
                           </div>
                           <h3>Mrs. Jesse Sparks</h3>
                           <div>
@@ -125,18 +125,18 @@ grateful, too, that we have a Christian man for governor..."</i></strong> - Mrs.
                       <ul>
                       <li><strong>- John Scopes</strong></li><br>
                       <li><strong>- American Civil Liberties Union (ACLU)</strong></li><br>
-                      <li><strong>- Clarence Darrow <i>(defended Scopes during the trial)</i></li><br>
+                      <li><strong>- Clarence Darrow <i>(defended Scopes during the trial)</strong></i></li><br>
                       </ul>
                       
                   
                   <fieldset id="sources">
                   <legend>Sources</legend>
                       <div class="accordion">
-                          <h3>Reverend John Roach Straton</h3>
+                          <h3>New York Times</h3>
                           <div>
-                              <p><strong><i>"The most sinister movement in the United states"</i></strong> by Reverend John Roach Straton published by <strong><i>American Fundamentalist</i></strong> on <i>December 26th, 1925</i></h2>
-                              <p>The reverend jumps straight into expressing his dissaproval of teaching evolution in public schools. He argues that areas more absent from religion have greater crime rates and worse living conditions.</p>
-                                <p><strong><i>"John Scopes’s lawyers left New York and Chicago, where real religion is ignored"</i></strong> -Reverend John Roach Straton</p>
+                              <p><strong><i>"New York Times"</i></strong> front page article published on <i>July 11th, 1925</i> </h2>
+                              <p>The excerpt from this article contrasts urban lifestyle in America with the rural lifestyle more common in southern states like Tennessee. He singles out (with a slight tone of ridicule) the Christian practices that many worshippers see as normal when non-religious people see them as alien. The article even goes so far as to compare the promises of heaven, hope, joy, and Jesus conjured by the Bible to the facade of false-advertisement that line every surface at eye-level.</p>
+                                <p><strong><i>"They walked up and down hot, dusty Market Street, with its buildings hung with banners, and lined with soda-water, sandwich, and book stalls, as for a carnival. Religion and business had become strangely mixed."</i></strong><i>    -The New York Times, "Cranks and Freaks Flock to Dayton"</i></p>
                           </div>
                           <h3>Mrs. Jesse Sparks</h3>
                           <div>
