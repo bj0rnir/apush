@@ -35,7 +35,7 @@ and open the template in the editor.
             }
             .tabs {
                 height: 100%;
-                display: block;
+                display: inline-block;
                 width: 100%;
                 
             }
@@ -69,7 +69,10 @@ and open the template in the editor.
                 display: inline;
                 width: 30%;
             }
-            
+            #scopes {
+                width: 100%;
+                height: 100%;
+            }
         </style>
         <title></title>
     
@@ -89,6 +92,7 @@ and open the template in the editor.
             </div>
             <div id="fundvsmod"><h3>Fundamentalism vs. Modernism</h3></div>
             <div id="1920society"><h3>Society and Innovation of the 1920s</h3></div>
-            </div>
+        </div>
+        
     </body>
 </html>
