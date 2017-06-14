@@ -34,6 +34,7 @@ and open the template in the editor.
                 padding-bottom: 10px;
             }
             .tabs {
+                height: 100%;
                 display: block;
                 width: 100%;
                 
