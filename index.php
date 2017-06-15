@@ -156,7 +156,16 @@ grateful, too, that we have a Christian man for governor..."</i></strong> - Mrs.
                     <legend>A Changing Role for Women in America</legend>
                     <p>     On June 4th, 1919, our country gained twice as many citizens. Every woman in 
                         America was instantly granted their unalienable right to vote, bringing an entirely new populaton
-                        to the polls. After the woman relentlessly cast their votes with guaranteed secrecy as a U.S. citizen, they realized that their will could be voiced freely. During WWI when men flocked overseas, the total number of employed women went up by 25%. After the war when the economic boom surged through the early twenties, women already held a tight grip on the industrial workforce. With all of this power suddenly flooding women across America, there were a handful of brave women who finally understood: Women are American citizens, which means they don't have to cater to their husband's every whim. These girls were called "flappers". </p>
+                        to the polls. After the woman relentlessly cast their votes with guaranteed secrecy as a U.S. citizen,
+                        they realized that their will could be voiced freely. During WWI when men flocked overseas, press-fueled 
+                        war support was contagiously spreading. I believe that this propaganda spoke loudest to women because not
+                        only could they help their husband from thousands of miles away, they could play a key role in the allies' victory. 
+                        This newfound confidence spread like wildfire, igniting on November 11th, 1918 when the war ended. Women proudly shared
+                        the victory with every allied soldier carrying a gun. After the war when the economic boom surged 
+                        like a current through the early twenties, women already held a tight grip on the industrial workforce. 
+                        With all of this power suddenly flooding women across America, there were a handful of brave women who finally understood:
+                        Women are American citizens, which means they don't have to cater to their husband's every whim.
+                        These girls were called "flappers". </p>
                 </fieldset>
             </div>
     
