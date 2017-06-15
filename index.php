@@ -151,8 +151,15 @@ grateful, too, that we have a Christian man for governor..."</i></strong> - Mrs.
                   
                   
             </div>
-            <div id="fundvsmod"><h3>Fundamentalism vs. Modernism</h3></div>
-            <div id="1920society"><h3>Society and Innovation of the 1920s</h3></div>
+            <div id="article"><h3>Magazine Article</h3>
+                <fieldset>
+                    <legend>A Changing Role for Women in America</legend>
+                    <p>In the past 40 years, </p>
+                </fieldset>
+            </div>
+    
+            <div id="1920society"><h3>Society and Innovation of the 1920s</h3>
+            </div>
         </div>
         
     </body>
