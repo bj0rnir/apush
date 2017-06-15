@@ -154,7 +154,9 @@ grateful, too, that we have a Christian man for governor..."</i></strong> - Mrs.
             <div id="article"><h3>Magazine Article</h3>
                 <fieldset>
                     <legend>A Changing Role for Women in America</legend>
-                    <p>     On June 4th, 1919, our country gained twice as many citizens. Every woman in America was instantly granted their unalienable right to vote, bringing an entirely new populaton to the polls. After the woman relentlessly cast their votes, with guaranteed secrecy as a citizen, suddenly realized that their will could be voiced freely. By the time their husband's were home from the war and the roaring twenties began, women had a dominant majority in the industrial sector. The total number of employed women went up by 25% during the war. After the war when the economic boom surged through the early twenties, women already had a tight grip on the industrial workforce. With all of this power suddenly flooding women across America, there were a handful of brave women who finally understood: Women are American citizens, which means they don't have to cater to their husband's every whim. These girls were called "flappers". </p>
+                    <p>     On June 4th, 1919, our country gained twice as many citizens. Every woman in 
+                        America was instantly granted their unalienable right to vote, bringing an entirely new populaton
+                        to the polls. After the woman relentlessly cast their votes with guaranteed secrecy as a U.S. citizen, they realized that their will could be voiced freely. During WWI when men flocked overseas, the total number of employed women went up by 25%. After the war when the economic boom surged through the early twenties, women already held a tight grip on the industrial workforce. With all of this power suddenly flooding women across America, there were a handful of brave women who finally understood: Women are American citizens, which means they don't have to cater to their husband's every whim. These girls were called "flappers". </p>
                 </fieldset>
             </div>
     
