@@ -125,7 +125,7 @@ grateful, too, that we have a Christian man for governor..."</i></strong> - Mrs.
                       <ul>
                       <li><strong>- John Scopes</strong></li><br>
                       <li><strong>- American Civil Liberties Union (ACLU)</strong></li><br>
-                      <li><strong>- Clarence Darrow <i>(defended Scopes during the trial)</strong></i></li><br>
+                      <li><strong>- Clarence Darrow<i></strong> (defended Scopes during the trial)</i></li><br>
                       </ul>
                       
                   
