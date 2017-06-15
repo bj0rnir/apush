@@ -83,7 +83,7 @@ and open the template in the editor.
         <div class="tabs">
               <ul>
                 <li><a href="#scopes">Scopes Trial</a></li>
-                <li><a href="#fundvsmod">Roaring Twenties Article</a></li>
+                <li><a href="#article">Roaring Twenties Article</a></li>
                 <li><a href="#1920society">1920's Society</a></li>
               </ul>
               <div id="scopes">
