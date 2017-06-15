@@ -162,8 +162,8 @@ grateful, too, that we have a Christian man for governor..."</i></strong> - Mrs.
                         to the polls. After the woman relentlessly cast their votes with guaranteed secrecy as a U.S. citizen,
                         they realized that their will could be voiced freely. During WWI when men flocked overseas, press-fueled 
                         war support was contagiously spreading. I believe that this propaganda spoke loudest to women because not
-                        only could they help their husband from thousands of miles away, they could play a key role in the allies' victory. 
-                        This newfound confidence spread like wildfire, igniting on November 11th, 1918 when the war ended. Women proudly shared
+                        only could they help their husband from thousands of miles away, they could play a key role in the allies' victory. </p>
+                        <p>This newfound confidence spread like wildfire, igniting on November 11th, 1918 when the war ended. Women proudly shared
                         the victory with every allied soldier carrying a gun. After the war when the economic boom surged 
                         like a current through the early twenties, women already held a tight grip on the industrial workforce. 
                         With all of this power suddenly flooding women across America, there were a handful of brave women who finally understood:
@@ -172,8 +172,10 @@ grateful, too, that we have a Christian man for governor..."</i></strong> - Mrs.
                         <p>Flappers cut their hair short, listened to jazz, drove cars, smoked in public, wore short skirts, and treated sex in a casual manner.
                             Basically, if you disrespected your wife's constitutional rights, she was gone. I think this was HILLARIOUS.
                             I can only imagine that the men who grew up seeing women cook their meals and wax their floors and raise their children saw these girls
-                            and made the same face my grandfather makes when he hears rap music. 
-                        </p>
+                            and made the same face my grandfather makes when he hears rap music. What were they going to do, give up women?
+                            HAH!! Where one gender goes, the other follows. This is ESPECIALLY true for when women decide they want nothing to
+                            do with a man. That man will go through a list of assorted emotions then show up at your doorstep.
+                    </p>
                 </fieldset>
             </div>
     
