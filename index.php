@@ -168,7 +168,7 @@ grateful, too, that we have a Christian man for governor..."</i></strong> - Mrs.
                         like a current through the early twenties, women already held a tight grip on the industrial workforce. 
                         With all of this power suddenly flooding women across America, there were a handful of brave women who finally understood:
                         Women are American citizens, which means they don't have to cater to their husband's every whim.
-                        These girls were called "flappers". </p><br><br>
+                        These girls were called "flappers". </p>
                         <p>Flappers cut their hair short, listened to jazz, drove cars, smoked in public, wore short skirts, and treated sex in a casual manner.
                             Basically, if you disrespected your wife's constitutional rights, she was gone. I think this was HILLARIOUS.
                             I can only imagine that the men who grew up seeing women cook their meals and wax their floors and raise their children saw these girls
