@@ -75,6 +75,9 @@ and open the template in the editor.
                 width: 100%;
                 height: 100%;
             }
+            p {
+                padding: 10px;
+            }
         </style>
         <title></title>
     
