@@ -20,7 +20,7 @@ and open the template in the editor.
         </script>
         <style>
             body {background-color: #2a2a2a;}
-            li {
+            ul.tabs * {
                 height: 30px;
                 font-size: 20px;
                 padding-bottom: 12px;
