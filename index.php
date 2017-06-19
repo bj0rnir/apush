@@ -35,9 +35,10 @@ and open the template in the editor.
                 padding-bottom: 10px;
             }
             .tabs {
+                float: right;
                 height: 100%;
                 display: inline-block;
-                width: 100%;
+                width: 80%;
                 
             }
             h2 {display: inline;
@@ -78,11 +79,18 @@ and open the template in the editor.
             p {
                 padding: 10px;
             }
+            .units {
+                display: inline-block;
+                float: left;
+                width: 19%;
+            }
         </style>
         <title></title>
     
     </head>
     <body>
+        <div class="units">
+        </div>
         <div class="tabs">
               <ul>
                 <li><a href="#scopes">Scopes Trial</a></li>
