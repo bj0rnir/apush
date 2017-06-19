@@ -90,7 +90,6 @@ and open the template in the editor.
             }
             p.units {
                 text-align: center;
-                color: #FFF;
                 
             }
         
@@ -101,8 +100,8 @@ and open the template in the editor.
     <body>
         <div class="units">
             
-                <p id="unit5">Unit 5</p>
-                <p id="unit6">Unit 6</p>
+                <p color="white" id="unit5">Unit 5</p>
+                <p color="white" id="unit6">Unit 6</p>
             
         </div>
         <div class="tabs">
