@@ -43,7 +43,7 @@ and open the template in the editor.
                 float: right;
                 height: 100%;
                 display: inline-block;
-                width: 80%;
+                width: 70%;
                 
             }
             h2 {display: inline;
