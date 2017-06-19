@@ -7,29 +7,20 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
+        
         <script type="text/javascript" src="jquery/external/jquery/jquery.js"></script>
         <script type="text/javascript" src="jquery/jquery-ui.js"></script>
         <link rel="stylesheet" href="jquery/jquery-ui.theme.css">
         <script type="text/javascript" src="ajax.js"></script>
-        <script type="text/javascript" src="apush.js"></script>
-        <script type="text/javascript">
+        <script>
             $(document).ready(function(){
-                hideAllUnits();
                 $(".tabs").tabs();
                 $( ".accordion" ).accordion();
-                $('#unit5btn').click(function(){
-                    hideAllUnits();
-                    showUnit($("#unit5"));
-                });
-                $('#unit6btn').click(function(){
-                    hideAllUnits();
-                    showUnit($("#unit6"));
-                });
             });
         </script>
         <style>
             body {background-color: #2a2a2a;}
-            ul.tabs {
+            li {
                 height: 30px;
                 font-size: 20px;
                 padding-bottom: 12px;
@@ -44,15 +35,9 @@ and open the template in the editor.
                 padding-bottom: 10px;
             }
             .tabs {
-                position: absolute;
-                left: 20%;
-                top: 0px;
-                padding: 10px;
-                margin: 0px;
-                float: right;
-               
+                height: 100%;
                 display: inline-block;
-                width: 70%;
+                width: 100%;
                 
             }
             h2 {display: inline;
@@ -90,31 +75,15 @@ and open the template in the editor.
                 width: 100%;
                 height: 100%;
             }
-            p.flags {
+            p {
                 padding: 10px;
             }
-            .units {
-                display: inline-block;
-                float: left;
-                width: 19%;
-            }
-            p.units {
-                text-align: center;
-                
-            }
-        
         </style>
         <title></title>
     
     </head>
     <body>
-        <div class="units">
-            
-                <p color="white" id="unit5btn">Unit 5</p>
-                <p color="white" id="unit6btn">Unit 6</p>
-            
-        </div>
-        <div class="tabs" id="unit5">
+        <div class="tabs">
               <ul>
                 <li><a href="#scopes">Scopes Trial</a></li>
                 <li><a href="#article">Roaring Twenties Article</a></li>
@@ -213,8 +182,6 @@ grateful, too, that we have a Christian man for governor..."</i></strong> - Mrs.
             <div id="1920society"><h3>Society and Innovation of the 1920s</h3>
             </div>
         </div>
-        <div class="tabs" id="unit6">
-            </div>
         
     </body>
 </html>
