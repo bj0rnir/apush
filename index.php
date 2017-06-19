@@ -11,10 +11,19 @@ and open the template in the editor.
         <script type="text/javascript" src="jquery/jquery-ui.js"></script>
         <link rel="stylesheet" href="jquery/jquery-ui.theme.css">
         <script type="text/javascript" src="ajax.js"></script>
-        <script>
+        <script type="text/javascript" src="apush.js"></script>
+        <script type="text/javascript">
             $(document).ready(function(){
                 $(".tabs").tabs();
                 $( ".accordion" ).accordion();
+                $('#unit5').click(function(){
+                    hideAllUnits();
+                    showUnit($("#unit5"));
+                });
+                $('#unit6').click(function(){
+                    hideAllUnits();
+                    showUnit($("#unit6"));
+                });
             });
         </script>
         <style>
