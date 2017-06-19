@@ -113,7 +113,7 @@ and open the template in the editor.
                 <p color="white" id="unit6">Unit 6</p>
             
         </div>
-        <div class="tabs">
+        <div class="tabs" id="unit5">
               <ul>
                 <li><a href="#scopes">Scopes Trial</a></li>
                 <li><a href="#article">Roaring Twenties Article</a></li>
@@ -212,6 +212,8 @@ grateful, too, that we have a Christian man for governor..."</i></strong> - Mrs.
             <div id="1920society"><h3>Society and Innovation of the 1920s</h3>
             </div>
         </div>
+        <div class="tabs" id="unit6">
+            </div>
         
     </body>
 </html>
