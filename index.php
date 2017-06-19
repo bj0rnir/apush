@@ -7,7 +7,6 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        
         <script type="text/javascript" src="jquery/external/jquery/jquery.js"></script>
         <script type="text/javascript" src="jquery/jquery-ui.js"></script>
         <link rel="stylesheet" href="jquery/jquery-ui.theme.css">
@@ -20,7 +19,7 @@ and open the template in the editor.
         </script>
         <style>
             body {background-color: #2a2a2a;}
-            ul.tabs * {
+            ul.tabs {
                 height: 30px;
                 font-size: 20px;
                 padding-bottom: 12px;
@@ -89,6 +88,11 @@ and open the template in the editor.
                 float: left;
                 width: 19%;
             }
+            p.units {
+                text-align: center;
+                font-color: white;
+                
+            }
         
         </style>
         <title></title>
@@ -97,8 +101,8 @@ and open the template in the editor.
     <body>
         <div class="units">
             <ul>
-                <li id="unit5">Unit 5</li>
-                <l1 id="unit6">Unit 6</li>
+                <p id="unit5">Unit 5</p>
+                <p id="unit6">Unit 6</p>
             </ul>
         </div>
         <div class="tabs">
