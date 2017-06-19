@@ -20,7 +20,7 @@ and open the template in the editor.
         </script>
         <style>
             body {background-color: #2a2a2a;}
-            li {
+            li.tabs {
                 height: 30px;
                 font-size: 20px;
                 padding-bottom: 12px;
@@ -29,7 +29,7 @@ and open the template in the editor.
                 padding-left: 5px;
                 padding-top: 5px;
             }
-            ul {
+            ul.tabs {
                 margin: 0px;
                 padding-top: 10px;
                 padding-bottom: 10px;
@@ -88,6 +88,10 @@ and open the template in the editor.
                 display: inline-block;
                 float: left;
                 width: 19%;
+            }
+            li.units {
+                display: block;
+                
             }
         </style>
         <title></title>
