@@ -35,6 +35,11 @@ and open the template in the editor.
                 padding-bottom: 10px;
             }
             .tabs {
+                position: absolute;
+                left: 20%;
+                top: 0px;
+                padding: 10px;
+                margin: 0px;
                 float: right;
                 height: 100%;
                 display: inline-block;
