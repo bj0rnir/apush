@@ -95,6 +95,10 @@ and open the template in the editor.
     </head>
     <body>
         <div class="units">
+            <ul>
+                <li id="unit5">Unit 5</li>
+                <l1 id="unit6">Unit 6</li>
+            </ul>
         </div>
         <div class="tabs">
               <ul>
