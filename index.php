@@ -90,7 +90,7 @@ and open the template in the editor.
             }
             p.units {
                 text-align: center;
-                color: white;
+                color: #FFF;
                 
             }
         
