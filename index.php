@@ -14,13 +14,14 @@ and open the template in the editor.
         <script type="text/javascript" src="apush.js"></script>
         <script type="text/javascript">
             $(document).ready(function(){
+                hideAllUnits();
                 $(".tabs").tabs();
                 $( ".accordion" ).accordion();
-                $('#unit5').click(function(){
+                $('#unit5btn').click(function(){
                     hideAllUnits();
                     showUnit($("#unit5"));
                 });
-                $('#unit6').click(function(){
+                $('#unit6btn').click(function(){
                     hideAllUnits();
                     showUnit($("#unit6"));
                 });
@@ -109,8 +110,8 @@ and open the template in the editor.
     <body>
         <div class="units">
             
-                <p color="white" id="unit5">Unit 5</p>
-                <p color="white" id="unit6">Unit 6</p>
+                <p color="white" id="unit5btn">Unit 5</p>
+                <p color="white" id="unit6btn">Unit 6</p>
             
         </div>
         <div class="tabs" id="unit5">
