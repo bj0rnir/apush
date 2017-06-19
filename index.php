@@ -80,7 +80,7 @@ and open the template in the editor.
                 width: 100%;
                 height: 100%;
             }
-            p {
+            p.flags {
                 padding: 10px;
             }
             .units {
@@ -90,7 +90,7 @@ and open the template in the editor.
             }
             p.units {
                 text-align: center;
-                font-color: white;
+                color: white;
                 
             }
         
