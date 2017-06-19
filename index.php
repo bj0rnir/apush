@@ -41,7 +41,7 @@ and open the template in the editor.
                 padding: 10px;
                 margin: 0px;
                 float: right;
-                height: 100%;
+               
                 display: inline-block;
                 width: 70%;
                 
