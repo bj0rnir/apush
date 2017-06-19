@@ -100,10 +100,10 @@ and open the template in the editor.
     </head>
     <body>
         <div class="units">
-            <ul>
+            
                 <p id="unit5">Unit 5</p>
                 <p id="unit6">Unit 6</p>
-            </ul>
+            
         </div>
         <div class="tabs">
               <ul>
