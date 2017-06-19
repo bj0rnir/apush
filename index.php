@@ -89,10 +89,7 @@ and open the template in the editor.
                 float: left;
                 width: 19%;
             }
-            li.units {
-                display: block;
-                
-            }
+        
         </style>
         <title></title>
     
