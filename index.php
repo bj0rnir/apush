@@ -109,7 +109,7 @@ and open the template in the editor.
             <fieldset>
             
             <label for="unit5">Unit 5</label>
-            <input type="radio" name="unit5" id="unit5" class="menubtn">
+            <input  type="radio" name="unit5" id="unit5" class="ui-checkboxradio">
             <label for="unit6">Unit 6</label>
             <input type="radio" name="unit6" id="unit6" class="menubtn">
             <label for="unit7">Unit 7</label>
