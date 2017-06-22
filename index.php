@@ -89,6 +89,10 @@ and open the template in the editor.
                 width: 19%;
                 height: 100%;
             }
+            div.jui_menu{
+                margin: 0px;
+                padding: 0px;
+            }
         </style>
         <title></title>
     
