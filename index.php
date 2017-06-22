@@ -35,9 +35,10 @@ and open the template in the editor.
                 padding-bottom: 10px;
             }
             .tabs {
+                float:right;
                 height: 100%;
                 display: inline-block;
-                width: 100%;
+                width: 80%;
                 
             }
             h2 {display: inline;
