@@ -104,7 +104,7 @@ and open the template in the editor.
     <body>
         <div class="menu">
             <button class="menubtn" type="button">Unit 5</button>
-            <button class="menubtn" type="button">Unit 6</button
+            <button class="menubtn" type="button">Unit 6</button>
         </div>
         <div class="tabs">
               <ul>
