@@ -89,7 +89,7 @@ and open the template in the editor.
                 width: 19%;
                 height: 100%;
             }
-            div.jui_menu{
+            li.jui_menu{
                 margin: 0px;
                 padding: 0px;
             }
@@ -100,9 +100,9 @@ and open the template in the editor.
     <body>
         <div class="menu">
             <ul class="jui_menu">
-                <li><div>Unit 5</div></li>
+                <li>Unit 5</li>
                 <li><div>Unit 6</div></li>
-                <li></li>
+                <li><p>Unit 7</p></li>
             </ul>
         </div>
         <div class="tabs">
