@@ -14,7 +14,7 @@ and open the template in the editor.
         <script type="text/javascript" src="ajax.js"></script>
         <script>
             $(document).ready(function(){
-                $("input.menu").checkboxradio();
+                $("#unit5").checkboxradio();
                 $(".menubtn").button();
                 $(".jui_menu").menu();
                 $(".tabs").tabs();
