@@ -80,6 +80,7 @@ and open the template in the editor.
                 padding: 10px;
             }
             .menu {
+                position: absolute;
                 background-color: blue;
                 padding: 0px;
                 margin: 0px;
