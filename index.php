@@ -99,23 +99,22 @@ and open the template in the editor.
                 padding: 0px;
             }
            
-            label.menu{
-                width: 80%;
-                text-align: center
-            }
+            
         </style>
         <title></title>
     
     </head>
     <body>
         <div class="menu">
+            <fieldset>
+            
             <label for="unit5">Unit 5</label>
             <input type="radio" name="unit5" id="unit5" class="menubtn">
             <label for="unit6">Unit 6</label>
             <input type="radio" name="unit6" id="unit6" class="menubtn">
             <label for="unit7">Unit 7</label>
             <input type="radio" name="unit7" id="unit7" class="menubtn">
-            
+            </fieldset>
             
         </div>
         <div class="tabs">
