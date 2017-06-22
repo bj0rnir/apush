@@ -14,6 +14,7 @@ and open the template in the editor.
         <script type="text/javascript" src="ajax.js"></script>
         <script>
             $(document).ready(function(){
+                $(".jui_menu").menu();
                 $(".tabs").tabs();
                 $( ".accordion" ).accordion();
             });
@@ -94,7 +95,12 @@ and open the template in the editor.
     </head>
     <body>
         <div class="menu">
-            </div>
+            <ul class="jui_menu">
+                <li><div>Unit 5</div></li>
+                <li><div>Unit 6</div></li>
+                <li></li>
+            </ul>
+        </div>
         <div class="tabs">
               <ul>
                 <li><a href="#scopes">Scopes Trial</a></li>
