@@ -83,7 +83,6 @@ and open the template in the editor.
             .menu {
                 float: left;
                 position: absolute;
-                background-color: blue;
                 padding: 0px;
                 margin: 0px;
                 width: 19%;
