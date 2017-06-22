@@ -97,6 +97,10 @@ and open the template in the editor.
                 margin: 0px;
                 padding: 0px;
             }
+            .menubtn {
+                width: 100%;
+                text-align: center;
+            }
         </style>
         <title></title>
     
