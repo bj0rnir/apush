@@ -85,7 +85,7 @@ and open the template in the editor.
                 background-color: blue;
                 padding: 0px;
                 margin: 0px;
-                width: 17%;
+                width: 19%;
                 height: 100%;
             }
         </style>
