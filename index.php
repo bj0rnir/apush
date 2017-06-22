@@ -14,6 +14,7 @@ and open the template in the editor.
         <script type="text/javascript" src="ajax.js"></script>
         <script>
             $(document).ready(function(){
+                $("input.menu").checkboxradio();
                 $(".menubtn").button();
                 $(".jui_menu").menu();
                 $(".tabs").tabs();
@@ -107,8 +108,14 @@ and open the template in the editor.
     </head>
     <body>
         <div class="menu">
-            <button class="menubtn" type="button">Unit 5</button>
-            <button class="menubtn" type="button">Unit 6</button>
+            <label for="unit5">Unit 5</label>
+            <input type="radio" for="unit5" id="unit5">
+            <label for="unit6">Unit 6</label>
+            <input type="radio" for="unit6" id="unit6">
+            <label for="unit7">Unit 7</label>
+            <input type="radio" for="unit7" id="unit7">
+            
+            
         </div>
         <div class="tabs">
               <ul>
