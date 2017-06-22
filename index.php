@@ -79,11 +79,20 @@ and open the template in the editor.
             p {
                 padding: 10px;
             }
+            .menu {
+                background-color: blue;
+                padding: 0px;
+                margin: 0px;
+                width: 20%;
+                height: 100%;
+            }
         </style>
         <title></title>
     
     </head>
     <body>
+        <div class="menu">
+            </div>
         <div class="tabs">
               <ul>
                 <li><a href="#scopes">Scopes Trial</a></li>
