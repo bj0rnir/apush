@@ -110,11 +110,11 @@ and open the template in the editor.
     <body>
         <div class="menu">
             <label for="unit5">Unit 5</label>
-            <input type="radio" for="unit5" id="unit5" class="menubtn">
+            <input type="radio" name="unit5" id="unit5" class="menubtn">
             <label for="unit6">Unit 6</label>
-            <input type="radio" for="unit6" id="unit6" class="menubtn">
+            <input type="radio" name="unit6" id="unit6" class="menubtn">
             <label for="unit7">Unit 7</label>
-            <input type="radio" for="unit7" id="unit7" class="menubtn">
+            <input type="radio" name="unit7" id="unit7" class="menubtn">
             
             
         </div>
