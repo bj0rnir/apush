@@ -14,7 +14,7 @@ and open the template in the editor.
         <script type="text/javascript" src="ajax.js"></script>
         <script>
             $(document).ready(function(){
-                $("#unit5").checkboxradio();
+                $("#unit5 #unit6 #unit7").checkboxradio();
                 $(".menubtn").button();
                 $(".jui_menu").menu();
                 $(".tabs").tabs();
@@ -98,9 +98,10 @@ and open the template in the editor.
                 margin: 0px;
                 padding: 0px;
             }
-            .menubtn {
-                width: 100%;
-                text-align: center;
+           
+            label.menu{
+                width: 80%;
+                text-align: center
             }
         </style>
         <title></title>
